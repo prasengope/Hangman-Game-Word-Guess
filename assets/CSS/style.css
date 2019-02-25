@@ -1,0 +1,17 @@
+body {
+	background: url("../images/Limbo-PC-Screenshot-002.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.headerText {
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.fieldText {
+	color: white;
+}
+
+#mainText {
+	color: white;
+}
